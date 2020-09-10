@@ -8,7 +8,7 @@ I'm Software Engineering student, Aspiring backend engineer with .NET Core, enth
 - 👯 I’m looking to collaborate on opensource projects
 - ⚡ Fun fact: For us Brazilians, all software advocates are lawyers
 
-Github: https://github.com/viniciusmorgado<br>
+Linkedin: https://www.linkedin.com/in/viniciusmorgado/?locale=en_US<br>
 Technical Content: https://medium.com/@viniciusdonatto (Portuguese | English)<br>
 Skoob reviews: https://www.skoob.com.br/estante/resenhas/5112085 (Portuguese)<br>
 
