@@ -5,7 +5,7 @@
 <p align="left"> 
   Hi there 👋
 
-I'm Software Engineering student, Aspiring backend engineer with .NET Core, enthusiastic about technology and the autonomy it provides for individuals and organizations to make a positive impact on people's lives, I share my attention especially with technologies such as Machine Learning, Cloud Computing, Blockchain, Augmented Reality and Quantum Computing.
+I'm Software Engineering student, Aspiring backend engineer with .NET Core, enthusiastic about technology and the autonomy it provides for individuals and organizations to make a positive impact on people's lives, I want to contribute to opensource projects and projects with social impact.
 </p>
 
 <p align="left">
