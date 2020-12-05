@@ -5,7 +5,7 @@
 <p align="left"> 
   Hi there 👋
 
-I'm Software Engineering student, Aspiring backend engineer with .NET Core, enthusiastic about technology and the autonomy it provides for individuals and organizations to make a positive impact on people's lives, I want to contribute to opensource and projects with social impact.
+I'm Software Engineering student, Aspiring backend developer with .NET Core, enthusiastic about technology and the autonomy it provides for individuals and organizations to make a positive impact on people's lives, I want to contribute to opensource and projects with social impact.
 </p>
 
 <p align="left">
