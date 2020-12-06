@@ -13,7 +13,7 @@ I'm Software Engineering student, Aspiring backend developer with .NET Core, ent
 </p>
 
 <p align="left">
-  ⚡ Frameworks: <strong>Angular, NodeJS and ASP.NET Core</strong>
+  ⚡ Frameworks: <strong>Angular, NodeJS and ASP.NET Core MVC</strong>
 </p>
 
 <p align="left">
