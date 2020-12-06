@@ -17,7 +17,7 @@ I'm Software Engineering student, Aspiring backend developer with .NET Core, ent
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Adobe XD, PhotoShop, Git/GitHub and Postman</strong>
+  💼 Tools: <strong>Visual Studio Code, Adobe XD, PhotoShop, Git and Postman</strong>
 </p>
 
 <p align="left">
