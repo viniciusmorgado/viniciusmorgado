@@ -13,7 +13,7 @@ I'm Software Engineering student, Aspiring backend developer with .NET Core, ent
 </p>
 
 <p align="left">
-  ⚡ Frameworks: <strong>Angular, NodeJS and ASP.NET Core MVC</strong>
+  ⚡ Frameworks: <strong>Angular, NodeJS and ASP.NET Core</strong>
 </p>
 
 <p align="left">
@@ -40,5 +40,3 @@ I'm Software Engineering student, Aspiring backend developer with .NET Core, ent
   <a href="https://www.instagram.com/eupigmeu/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eupigmeu/"/></a>
 </p>  
-
-Acknowledgments for readme design [Iuri Silva](https://github.com/iuricode)
