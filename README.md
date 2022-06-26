@@ -5,7 +5,7 @@
 <p align="left"> 
   Hi there 👋
 
-I'm Software Engineering student, backend developer with .NET Core, enthusiastic about technology and the autonomy it provides for individuals and organizations to make a positive impact on people's lives, I want to contribute to opensource and projects with social impact.
+I'm Software Engineer currently coding with CSharp, enthusiastic about technology and the autonomy it provides for individuals and organizations to make a positive impact on people's lives, I want to contribute to opensource and projects with social impact.
 </p>
 
 <p align="left">
@@ -13,11 +13,11 @@ I'm Software Engineering student, backend developer with .NET Core, enthusiastic
 </p>
 
 <p align="left">
-  ⚡ Frameworks: <strong>Angular, NodeJS and ASP.NET Core</strong>
+  ⚡ Frameworks: <strong>Angular, NestJS and ASP.NET Core</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Adobe XD, PhotoShop, Git and Postman</strong>
+  💼 Tools: <strong>Visual Studio, Adobe XD, Git and Postman</strong>
 </p>
 
 <p align="left">
@@ -30,9 +30,6 @@ I'm Software Engineering student, backend developer with .NET Core, enthusiastic
 
   <a href="https://www.linkedin.com/in/viniciusmorgado/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmorgado/" /></a>
-
-  <a href="https://wa.me/message/IBXTGSTHS3BSH1" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/message/IBXTGSTHS3BSH1"/></a>
 
   <a href="https://www.facebook.com/435143a1b5fc8b" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/435143a1b5fc8b"/></a>
