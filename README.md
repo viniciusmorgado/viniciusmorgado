@@ -29,6 +29,6 @@ Passionate about technology and its potential to make a positive impact on peopl
   <a href="mailto:contato.viniciusdonatto@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=contato.viniciusdonatto@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/viniciusmorgado/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/viniciusdonatto/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmorgado/" /></a>
 </p>  
