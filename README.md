@@ -3,7 +3,7 @@
 <p align="left"> 
   Hi there 👋
 
-Passionate about technology and its potential to make a positive impact on people´s lives, looking for ways to improve the world bit-by-bit every day! 
+Passionate about technology and its potential to positively impact people's lives, I strive to improve the world bit by bit every day. I'm also an open-source enthusiast, particularly in computer graphics technologies such as Godot and Blender.
 
 </p>
 
