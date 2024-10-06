@@ -8,15 +8,15 @@ Passionate about technology and its potential to positively impact people's live
 </p>
 
 <p align="left">
-  ☕ Code: <strong>C#, C++ and Python</strong>
+  ☕ Code: <strong>C#, Go and Python</strong>
 </p>
 
 <p align="left">
-  ⚡ Frameworks: <strong>Crow++, FastAPI and ASP.NET Core</strong>
+  ⚡ Frameworks: <strong>Fiber, FastAPI, Flask, Django and ASP.NET Core</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Neovim, Git and Postman</strong>
+  💼 Tools: <strong>VSCode, Git and Postman</strong>
 </p>
 
 <p align="left">
