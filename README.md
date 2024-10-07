@@ -21,4 +21,4 @@ Passionate about technology and its potential to positively impact people's live
   <a href="https://www.linkedin.com/in/viniciusdonatto/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmorgado/" /></a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorgado&layout=compact"  min-width="400px" max-width="400px" width="400px" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorgado&layout=compact"  min-width="400px" max-width="400px" width="400px" align="left" />
