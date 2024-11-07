@@ -4,10 +4,10 @@
 Passionate about technology and its potential to positively impact people's lives, I strive to improve the world bit by bit every day. I'm also an open-source enthusiast, particularly in computer graphics technologies such as Godot and Blender.
 </p>
 <p align="left">
-  ☕ Code: <strong>C#, Go and Python</strong>
+  ☕ Code: <strong>C#, C++ and Python</strong>
 </p>
 <p align="left">
-  ⚡ Frameworks: <strong>Fiber, FastAPI, Flask, Django and ASP.NET Core</strong>
+  ⚡ Frameworks: <strong>Drogon, FastAPI, Flask, Django and ASP.NET Core</strong>
 </p>
 <p align="left">
   💼 Tools: <strong>VSCode, Git and Postman</strong>
