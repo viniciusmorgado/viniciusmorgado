@@ -7,7 +7,7 @@ Passionate about technology and its potential to positively impact people's live
   ☕ Code: <strong>C#, C++ and Python</strong>
 </p>
 <p align="left">
-  ⚡ Frameworks: <strong>Drogon, FastAPI, Flask, Django and ASP.NET Core</strong>
+  ⚡ Frameworks: <strong>Drogon, FastAPI, and ASP.NET Core</strong>
 </p>
 <p align="left">
   💼 Tools: <strong>VSCode, Git and Postman</strong>
