@@ -19,7 +19,7 @@
   </a>
 </p>
 
-### ⚡ Frameworks
+###  ⚡ Frameworks
 <p align="left">
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=c%2B%2B&sort=">
     <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white" />
@@ -55,4 +55,4 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorgado&layout=compact&hide=CSS,PowerShell,HTML,Shell,Nix,Makefile"  min-width="400px" max-width="400px" width="400px" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorgado&layout=compact&hide=CSS,PowerShell,HTML,Shell,Nix,Makefile,JavaScript,Batchfile"  min-width="400px" max-width="400px" width="400px" align="left" />
