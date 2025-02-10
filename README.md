@@ -15,7 +15,8 @@
 
 ### ⚡ Frameworks
 <p align="left">
-  <a href="[https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=c%2B%2B&sort=](https://github.com/viniciusmorgado?tab=repositories&q=boost&type=&language=c%2B%2B&sort=)"><img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white" /></a>
+  <a href="
+https://github.com/viniciusmorgado?tab=repositories&q=boost&type=&language=c%2B%2B&sort="><img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&logoColor=white" /></a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=c%23&sort="><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
 </p>
