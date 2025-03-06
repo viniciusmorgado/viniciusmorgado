@@ -1,8 +1,9 @@
 <img src="https://github.com/viniciusmorgado/viniciusmorgado/blob/master/Assets/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi there 👋
-  Passionate about technology and its potential to positively impact people's lives, I strive to improve the world bit by bit every day. I'm also an open-source enthusiast, particularly in computer graphics technologies such as Godot and Blender.
+Hi there 👋
+
+Passionate about graphics programming and cutting-edge rendering techniques, I love exploring open-source projects like Godot and Blender. Always experimenting with new ways to push pixels and bring virtual worlds to life.
 </p>
 
 ### 🛠️ Skills
