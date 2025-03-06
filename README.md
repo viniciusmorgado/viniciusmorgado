@@ -30,6 +30,8 @@ Passionate about graphics programming and cutting-edge rendering techniques, I l
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
   <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+  <a href="https://www.vulkan.org/"><img src="https://img.shields.io/badge/Vulkan-E34F26?style=for-the-badge&logo=vulkan&logoColor=white" /></a>
+  <a href="https://www.opengl.org/"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" /></a>
 </p>
 
 ### 💌 Contact
