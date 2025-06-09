@@ -40,4 +40,4 @@ Passionate about graphics programming and cutting-edge rendering techniques, I l
   <a href="https://www.linkedin.com/in/viniciusdonatto/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorgado&layout=compact&hide=CSS,PowerShell,HTML,Shell,Nix,Makefile,JavaScript,Batchfile" width="400px" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorgado&layout=compact&hide=CSS,PowerShell,HTML,Shell,Nix,Makefile,JavaScript,Batchfile,TypeScript,HCL" width="400px" align="left" />
