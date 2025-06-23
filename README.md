@@ -14,15 +14,34 @@ Machine Learning Engineer and Software Developer passionate about graphics progr
 </p>
 
 ### 🛠️ Tools
+
 <p align="left">
+  <!-- Game Engines -->
+  <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /></a>
   <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
+  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" /></a>
+</p>
+
+<p align="left">
+  <!-- Infrastructure & DevOps -->
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
   <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+</p>
+
+<p align="left">
+  <!-- Graphics APIs -->
   <a href="https://www.vulkan.org/"><img src="https://img.shields.io/badge/Vulkan-E34F26?style=for-the-badge&logo=vulkan&logoColor=white" /></a>
   <a href="https://www.opengl.org/"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" /></a>
 </p>
+
+<p align="left">
+  <!-- Machine Learning -->
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+</p>
+
 ### 💌 Contact
 <p align="left">
   <a href="mailto:contato.viniciusdonatto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
