@@ -2,7 +2,7 @@
 <p align="left"> 
 Hi there 👋
 
-Machine Learning Engineer and Software Developer passionate about graphics programming and cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life.
+Machine Learning Engineer and Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life, special with the intersection of graphics and ML (Raytracing, DLSS, )
 </p>
 
 ### ☕ Code
