@@ -47,4 +47,4 @@ Machine Learning Engineer and Graphics Programmer passionate about cutting-edge 
   <a href="mailto:contato.viniciusdonatto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/viniciusdonatto/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorgado&layout=compact&hide=CSS,PowerShell,HTML,Shell,Nix,Makefile,JavaScript,Batchfile,TypeScript,HCL" width="400px" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorgado&layout=compact&hide=CSS,PowerShell,HTML,Shell,Nix,Makefile,JavaScript,Batchfile,TypeScript,HCL,RenderScript" width="400px" align="left" />
