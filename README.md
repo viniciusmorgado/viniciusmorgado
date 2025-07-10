@@ -26,6 +26,7 @@ Machine Learning Engineer and Graphics Programmer passionate about cutting-edge 
 </p>
 <h4>Infrastructure</h4>
 <p align="left">
+  <a href="https://aws.amazon.com/"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
@@ -37,9 +38,15 @@ Machine Learning Engineer and Graphics Programmer passionate about cutting-edge 
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
 </p>
 <hr />
-<h4>💌 Contact</h4>
-<p align="left">
-  <a href="mailto:contato.viniciusdonatto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/viniciusdonatto/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<div align="center">
+<h4>💌 Where to find me?</h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/viniciusdonatto/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+  </a>
+  <a href="https://huggingface.co/viniciusmorgado">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" />
+  </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorgado&layout=compact&hide=CSS,PowerShell,HTML,Shell,Nix,Makefile,JavaScript,Batchfile,HCL,RenderScript" width="400px" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorgado&layout=compact&hide=CSS,PowerShell,HTML,Shell,Nix,Makefile,JavaScript,Batchfile,HCL,RenderScript" width="350px" align="center" />
+</div>
