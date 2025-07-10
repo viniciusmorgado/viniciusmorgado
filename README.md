@@ -41,6 +41,13 @@ Machine Learning Engineer and Graphics Programmer passionate about cutting-edge 
 <div align="center">
 <h4>💌 Where to find me?</h4>
 <p align="center">
+
+  
+
+  <a href="mailto:contactme.sapling852@passmail.net">
+    <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/viniciusdonatto/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
