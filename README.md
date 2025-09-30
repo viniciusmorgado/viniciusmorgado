@@ -1,7 +1,7 @@
 <img src="https://github.com/viniciusmorgado/viniciusmorgado/blob/master/Assets/computer-illustration.png" width="400px" align="right" alt="Computer">
 <p align="left"> 
 Hi there 👋<br/></br>
-Machine Learning Engineer and a rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life, especially at the intersection of graphics and ML.
+Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life, especially at the intersection of graphics and ML.
 </p>
 <h3>☕ Code</h3>
 <p align="left">
