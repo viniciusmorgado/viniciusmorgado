@@ -9,7 +9,7 @@ Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=rust&sort="><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=typescript&sort="><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <!-- <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=typescript&sort="><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a> -->
 </p>
 <h3>🛠️ Tools</h3>
 <h4>Graphics Tools</h4>
