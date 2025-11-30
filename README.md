@@ -54,5 +54,4 @@ Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" />
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorgado&layout=compact&hide=CSS,PowerShell,HTML,Shell,Nix,Makefile,JavaScript,Batchfile,HCL,RenderScript" width="350px" align="center" />
 </div>
