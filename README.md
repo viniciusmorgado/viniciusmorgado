@@ -2,21 +2,29 @@
 <p align="left"> 
 Hi there 👋<br/></br>
 Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life, especially at the intersection of graphics and ML.
+
+What will you find here?
 </p>
 <h3>☕ Code</h3>
 <p align="left">
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=c%23&sort="><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=rust&sort="><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <!-- <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=typescript&sort="><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a> -->
+  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=rust&sort=">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  </a>
+  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=c%2B%2B&sort=">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </a>
+  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=lua&sort=">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  </a>
+  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=python&sort=">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </p>
 <h3>🛠️ Tools</h3>
 <h4>Graphics Tools</h4>
 <p align="left">
   <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /></a>
   <a href="https://bevyengine.org/"><img src="https://img.shields.io/badge/Bevy-F23182?style=for-the-badge&logo=bevy&logoColor=white" /></a>
-  <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
   <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" /></a>
 </p>
 <h4>Graphics APIs</h4>
@@ -27,8 +35,6 @@ Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I
 <h4>Infrastructure</h4>
 <p align="left">
   <a href="https://aws.amazon.com/"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
   <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" /></a>
 </p>
