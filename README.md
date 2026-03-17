@@ -1,7 +1,7 @@
 <img src="https://github.com/viniciusmorgado/viniciusmorgado/blob/master/Assets/computer-illustration.png" width="400px" align="right" alt="Computer">
 <p align="left"> 
 Hi there 👋<br/></br>
-Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life, especially at the intersection of graphics and ML.
+Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life.
 
 What will you find here?
 </p>
@@ -16,8 +16,8 @@ What will you find here?
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=lua&sort=">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="35" />
   </a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=python&sort=">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
+  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=swift&sort=">
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="35" />
   </a>
 </p>
 <h3>🛠️ Tools</h3>
@@ -31,20 +31,6 @@ What will you find here?
 <p align="left">
   <a href="https://www.vulkan.org/"><img src="https://img.shields.io/badge/Vulkan-E34F26?style=for-the-badge&logo=vulkan&logoColor=white" height="35" /></a>
   <a href="https://developer.apple.com/metal/"><img src="https://img.shields.io/badge/Metal-00C7B7?style=for-the-badge&logo=apple&logoColor=white" height="35" /></a>
-</p>
-<h4>Infrastructure</h4>
-<p align="left">
-  <a href="https://aws.amazon.com/"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" height="35"/></a>
-  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="35" /></a>
-  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="35" /></a>
-  <a href="https://surrealdb.com/">
-    <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" height="35" />
-  </a>
-</p>
-<h4>Machine Learning</h4>
-<p align="left">
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" /></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="35" /></a>
 </p>
 <hr />
 <div align="center">
