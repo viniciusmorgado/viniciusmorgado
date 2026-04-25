@@ -3,6 +3,8 @@
 Hi there 👋<br/></br>
 Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life.
 
+Future projects will only be found in my personal Git server; GitHub will become a mirror only: https://git.donatto.dev.br
+
 What will you find here?
 </p>
 <h3>☕ Code</h3>
@@ -27,18 +29,11 @@ What will you find here?
 <hr />
 <div align="center">
 <h4>💌 Where to find me?</h4>
-<p align="center">
-  <a href="mailto:contactme.sapling852@passmail.net">
-    <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" height="35" />
-  </a>
-  <a href="https://substack.com/@veeland">
-    <img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/viniciusdonatto/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="35" />
-  </a>
-  <a href="https://huggingface.co/viniciusmorgado">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" height="35" />
-  </a>
+
+<p align="center" style="display: flex; gap: 8px;">
+  <a href="mailto:contactme.sapling852@passmail.net"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" height="35" /></a>
+  <a href="https://substack.com/@veeland"><img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff" height="35" /></a>
+  <a href="https://www.linkedin.com/in/viniciusdonatto/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="35" /></a>
+  <a href="https://huggingface.co/viniciusmorgado"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" height="35" /></a>
 </p>
 </div>
