@@ -1,4 +1,4 @@
-<img src="https://github.com/viniciusmorgado/viniciusmorgado/blob/master/Assets/computer-illustration.png" width="400px" align="right" alt="Computer">
+←<img src="https://github.com/viniciusmorgado/viniciusmorgado/blob/master/Assets/computer-illustration.png" width="400px" align="right" alt="Computer">
 <p align="left"> 
 Hi there 👋<br/></br>
 Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life.
@@ -6,26 +6,21 @@ Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I
 What will you find here?
 </p>
 <h3>☕ Code</h3>
-<p align="left">
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=rust&sort=">
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="35" />
-  </a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=lua&sort=">
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="35" />
-  </a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=swift&sort=">
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="35" />
-  </a>
+<p align="left" style="display: flex; gap: 8px;">
+  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=rust&sort="><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="35" /></a>
+  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=lua&sort="><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="35" /></a>
+  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=swift&sort="><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="35" /></a>
+</p>
 </p>
 <h3>🛠️ Tools</h3>
 <h4>Graphics Tools</h4>
-<p align="left">
+<p align="left" style="display: flex; gap: 8px;">
   <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" height="35" /></a>
   <a href="https://bevyengine.org/"><img src="https://img.shields.io/badge/Bevy-F23182?style=for-the-badge&logo=bevy&logoColor=white" height="35" /></a>
   <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" height="35" /></a>
 </p>
 <h4>Graphics APIs</h4>
-<p align="left">
+<p align="left" style="display: flex; gap: 8px;">
   <a href="https://www.vulkan.org/"><img src="https://img.shields.io/badge/Vulkan-E34F26?style=for-the-badge&logo=vulkan&logoColor=white" height="35" /></a>
   <a href="https://developer.apple.com/metal/"><img src="https://img.shields.io/badge/Metal-00C7B7?style=for-the-badge&logo=apple&logoColor=white" height="35" /></a>
 </p>
