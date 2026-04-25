@@ -1,7 +1,7 @@
 ←<img src="https://github.com/viniciusmorgado/viniciusmorgado/blob/master/Assets/computer-illustration.png" width="400px" align="right" alt="Computer">
 <p align="left"> 
 Hi there 👋<br/></br>
-Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life.
+Software Engineer and Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life.
 
 Future projects will only be found in my personal Git server; GitHub will become a mirror only: https://git.donatto.dev.br
 
