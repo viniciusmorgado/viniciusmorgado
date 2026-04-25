@@ -10,9 +10,6 @@ What will you find here?
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=rust&sort=">
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="35" />
   </a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=c%2B%2B&sort=">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" />
-  </a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=lua&sort=">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="35" />
   </a>
