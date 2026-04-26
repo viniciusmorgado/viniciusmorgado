@@ -2,7 +2,7 @@
 
 <p align="left">
   Hi there 👋<br><br>
-  Software Engineer and Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life.
+  Software Engineer working with fault-tolerant distributed systems and Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life.
   <br><br>
   Future projects will only be found in my personal Git server; GitHub will become a mirror only: <a href="https://git.donatto.dev.br">https://git.donatto.dev.br</a>
   <br><br>
@@ -15,6 +15,8 @@
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=rust&sort="><img src="https://img.shields.io/badge/-000000?style=flat&logo=rust&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Rust"></a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=lua&sort="><img src="https://img.shields.io/badge/-2C2D72?style=flat&logo=lua&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Lua"></a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=go&sort="><img src="https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Go"></a>
+  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=elixir&sort="><img src="https://img.shields.io/badge/-4B275F?style=flat&logo=elixir&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Elixir"></a>
+
 </p>
 
 <hr>
