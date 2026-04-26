@@ -14,23 +14,7 @@
 <p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=rust&sort="><img src="https://img.shields.io/badge/-000000?style=flat&logo=rust&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Rust"></a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=lua&sort="><img src="https://img.shields.io/badge/-2C2D72?style=flat&logo=lua&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Lua"></a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=swift&sort="><img src="https://img.shields.io/badge/-FA7343?style=flat&logo=swift&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Swift"></a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=&language=go&sort="><img src="https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Go"></a>
-</p>
-
-<h3>🛠️ Tools</h3>
-
-<h4>Graphics Tools</h4>
-<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-  <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" height="28" style="height: 28px; width: auto;" alt="Godot"></a>
-  <a href="https://bevyengine.org/"><img src="https://img.shields.io/badge/Bevy-F23182?style=flat&logo=bevy&logoColor=white" height="28" style="height: 28px; width: auto;" alt="Bevy"></a>
-  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" height="28" style="height: 28px; width: auto;" alt="Blender"></a>
-</p>
-
-<h4>Graphics APIs</h4>
-<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-  <a href="https://www.vulkan.org/"><img src="https://img.shields.io/badge/Vulkan-E34F26?style=flat&logo=vulkan&logoColor=white" height="28" style="height: 28px; width: auto;" alt="Vulkan"></a>
-  <a href="https://developer.apple.com/metal/"><img src="https://img.shields.io/badge/Metal-00C7B7?style=flat&logo=apple&logoColor=white" height="28" style="height: 28px; width: auto;" alt="Metal"></a>
 </p>
 
 <hr>
