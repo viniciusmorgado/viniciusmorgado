@@ -15,7 +15,6 @@
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=public&language=rust&sort="><img src="https://img.shields.io/badge/-000000?style=flat&logo=rust&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Rust"></a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=public&language=lua&sort="><img src="https://img.shields.io/badge/-2C2D72?style=flat&logo=lua&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Lua"></a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=public&language=go&sort="><img src="https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Go"></a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=public&language=elixir&sort="><img src="https://img.shields.io/badge/-4B275F?style=flat&logo=elixir&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Elixir"></a>
   <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=public&language=typescript&sort="><img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=white" height="55" style="height: 55px; width: auto;" alt="JavaScript"></a>
 
 </p>
