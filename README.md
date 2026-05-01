@@ -1,23 +1,37 @@
-<img src="https://github.com/viniciusmorgado/viniciusmorgado/blob/master/Assets/computer-illustration.png" width="400px" align="right" alt="Computer">
-
 <p align="left">
   Hi there 👋<br><br>
   Software Engineer working with fault-tolerant distributed systems and Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life.
-  <br><br>
-  Future projects will only be found in my personal Git server; GitHub will become a mirror only: <a href="https://git.donatto.dev.br">https://git.donatto.dev.br</a>
-  <br><br>
-  What will you find here?
 </p>
 
-<h3>☕ Code</h3>
+<br clear="all">
 
-<p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=public&language=rust&sort="><img src="https://img.shields.io/badge/-000000?style=flat&logo=rust&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Rust"></a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=public&language=lua&sort="><img src="https://img.shields.io/badge/-2C2D72?style=flat&logo=lua&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Lua"></a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=public&language=go&sort="><img src="https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white" height="55" style="height: 55px; width: auto;" alt="Go"></a>
-  <a href="https://github.com/viniciusmorgado?tab=repositories&q=&type=public&language=typescript&sort="><img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=white" height="55" style="height: 55px; width: auto;" alt="JavaScript"></a>
+<h3>⚠️ Notice: This Account Is No Longer My Primary Home</h3>
 
-</p>
+<table>
+  <tr>
+    <td>
+      <p>
+        Due to Microsoft's questionable decisions regarding transparency around how user data and code hosted on GitHub are being used, I have moved all of my projects to a <strong>personal, self-hosted Git server</strong>, where I can control the entire infrastructure end-to-end. All of my open-source work will be developed from there going forward.
+      </p>
+      <p>
+        This GitHub account will only be used for the following:
+      </p>
+      <ul>
+        <li>Contributing to open-source projects already established on GitHub.</li>
+        <li>Mirroring specific repositories for accessibility purposes or for GitHub Actions deployments (some platforms only support deployments from GitHub by default).</li>
+      </ul>
+      <p>
+        To explore my actual work, please visit my personal Git server. Most relevant projects are open to the public and can be accessed at:
+      </p>
+      <p align="center">
+        <a href="https://git.donatto.dev.br/"><img src="https://img.shields.io/badge/Visit%20My%20Git%20Server-git.donatto.dev.br-2D2D2D?style=for-the-badge&logo=gitea&logoColor=white" alt="Personal Git Server"></a>
+      </p>
+      <p>
+        Thanks for understanding! 🙏
+      </p>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
