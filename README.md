@@ -1,12 +1,4 @@
-<p align="left">
-  Hi there 👋<br><br>
-  Software Engineer working with fault-tolerant distributed systems and Rookie Graphics Programmer passionate about cutting-edge rendering techniques. I enjoy exploring open-source projects like Godot, Bevy and Blender in my spare time, constantly experimenting with new ways to push pixels and bring virtual worlds to life.
-</p>
-
-<br clear="all">
-
 <h3>⚠️ Notice: This Account Is No Longer My Primary Home</h3>
-
 <table>
   <tr>
     <td>
@@ -18,7 +10,7 @@
       </p>
       <ul>
         <li>Contributing to open-source projects already established on GitHub.</li>
-        <li>Mirroring specific repositories for accessibility purposes or for GitHub Actions deployments (some platforms only support deployments from GitHub by default).</li>
+        <li>Logging in to services that only support GitHub authentication (such as crates.io).</li>
       </ul>
       <p>
         To explore my actual work, please visit my personal Git server. Most relevant projects are open to the public and can be accessed at:
@@ -32,9 +24,7 @@
     </td>
   </tr>
 </table>
-
 <hr>
-
 <div align="center">
   <h4>💌 Where to find me?</h4>
   <p align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
