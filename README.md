@@ -10,7 +10,7 @@
       </p>
       <ul>
         <li>Contributing to open-source projects already established on GitHub.</li>
-        <li>Logging in to services that only support GitHub authentication (such as crates.io).</li>
+        <li>Logging in to services that only support GitHub authentication (such as crates.io and Flathub).</li>
       </ul>
       <p>
         To explore my actual work, please visit my personal Git server. Most relevant projects are open to the public and can be accessed at:
