@@ -9,6 +9,7 @@
 <ul>
   <li>Contributing to open-source projects already established on GitHub.</li>
   <li>Logging in to services that only support GitHub authentication (such as crates.io and Flathub).</li>
+  <li>Follow-up with news about projects that I use.</li>
 </ul>
 <p>
   To explore my actual work, please visit my Codeberg profile:
