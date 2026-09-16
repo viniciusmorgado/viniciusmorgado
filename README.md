@@ -4,12 +4,13 @@
   Due to Microsoft's questionable decisions regarding transparency around how user data and code hosted on GitHub are being used, I have moved all of my projects to <strong>Codeberg</strong>, a community-driven, non-profit platform powered by Free Software. All of my open-source work will be developed from there going forward.
 </p>
 <p>
-  This GitHub account will only be used for the following:
+  This GitHub account is <strong>not abandoned</strong>, but it will only be used for the following:
 </p>
 <ul>
   <li>Contributing to open-source projects already established on GitHub.</li>
   <li>Logging in to services that only support GitHub authentication (such as crates.io and Flathub).</li>
   <li>Follow-up with news about projects that I use.</li>
+  <li>Publishing one-off experiments and spec-driven development prototypes that Codeberg's policies don't allow.</li>
 </ul>
 <p>
   To explore my actual work, please visit my Codeberg profile:
